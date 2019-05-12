@@ -1,0 +1,4 @@
+applications:
+- name: rootpai-maya
+  path: target/rootpai-maya-develop-SNAPSHOT.jar
+  instances: 1
